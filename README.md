@@ -37,7 +37,7 @@ A fun and addictive word puzzle game developed using **Jetpack Compose**. Availa
 
 ## 📫 Get In Touch
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mansoor-ul-haq13)
+- **LinkedIn**: [in/mansoor-ul-haq13](https://www.linkedin.com/in/mansoor-ul-haq13)
 - **Email**: [mansoorulhaq166@gmail.com](mailto:mansoorulhaq166@gmail.com)
 
 ---
