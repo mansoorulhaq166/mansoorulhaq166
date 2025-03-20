@@ -47,7 +47,7 @@ I'm a **passionate Android Developer** with **2.5 years of experience** crafting
 <p align="center">
   <img src="https://img.shields.io/badge/AdMob-Ads-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Play%20Billing-In--App%20Purchases-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase%20Analytics-Tracking-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Analytics-User%20Insights-orange?style=for-the-badge" />
 </p>  
 
 ---
