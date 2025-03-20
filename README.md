@@ -40,9 +40,10 @@ I'm a **passionate Android Developer** with **2.5 years of experience** crafting
 
 ### 🔧 Tooling & CI/CD  
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD%20Automation-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastlane-CI/CD%20Automation-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Play%20Console-App%20Publishing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/App%20Publishing-Google%20Play%20Console-green?style=for-the-badge" />
 </p>
 
 ### **📊 Monetization & Analytics**  
