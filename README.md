@@ -65,8 +65,8 @@ I'm a **passionate Android Developer** with **2.5 years of experience** crafting
 
 ## 📫 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansoor%20ul%20Haq-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansoor-ul-haq13)  
-<a href="mailto:mansoorulhaq166@gmail.com"><img src="https://img.shields.io/badge/Email-mansoorulhaq166@gmail.com-red?style=for-the-badge&logo=gmail" /></a>  
+- **LinkedIn**: [in/mansoor-ul-haq13](https://www.linkedin.com/in/mansoor-ul-haq13)
+- **Email**: [mansoorulhaq166@gmail.com](mailto:mansoorulhaq166@gmail.com)
 
 ---
 
