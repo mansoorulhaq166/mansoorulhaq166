@@ -20,10 +20,12 @@ I'm a **passionate Android Developer** with **2.5 years of experience** crafting
 
 ## 🔧 Tech Stack & Tools  
 
-### **📱 Android Development**  
+### 📱 Android Development  
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300397B.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-UI%20Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVVM-Architecture-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hilt-DI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coroutines-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -36,12 +38,12 @@ I'm a **passionate Android Developer** with **2.5 years of experience** crafting
   <img src="https://img.shields.io/badge/RESTful%20APIs-green?style=for-the-badge" />
 </p>  
 
-### **🔧 Tooling & CI/CD**  
+### 🔧 Tooling & CI/CD  
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastlane-Mobile%20CI/CD-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Play%20Console-Developer-green?style=for-the-badge" />
-</p>  
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD%20Automation-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-CI/CD%20Automation-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Play%20Console-App%20Publishing-green?style=for-the-badge" />
+</p>
 
 ### **📊 Monetization & Analytics**  
 <p align="center">
