@@ -2,7 +2,7 @@
 
 ## 💻 Android Developer | Passionate About Scalable & High-Performance Mobile Apps  
 
-I'm a **passionate Android Developer** with **2.5 years of experience** crafting **efficient, scalable, and performance-driven** mobile applications. I specialize in building **intuitive UI/UX, implementing clean architectures, and optimizing app performance** to deliver seamless experiences.  
+I'm a **passionate Android Developer** with **2 years of experience** crafting **efficient, scalable, and performance-driven** mobile applications. I specialize in building **intuitive UI/UX, implementing clean architectures, and optimizing app performance** to deliver seamless experiences.  
 
 🚀 *Turning ideas into reality with **Kotlin, Jetpack Compose, and Firebase!***  
 
