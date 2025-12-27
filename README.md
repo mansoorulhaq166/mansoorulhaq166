@@ -57,9 +57,7 @@ I'm a **passionate Android Developer** with **2 years of experience** crafting *
 
 ## 🌟 Featured Projects  
 
-### 🎮 [Word Link Puzzles Game](https://play.google.com/store/apps/details?id=com.wordgame.wordpuzzles)  
-> A **fun and addictive word puzzle game** built using **Jetpack Compose**. Integrated **AdMob monetization, Firebase Analytics, and in-app purchases**, providing an engaging user experience.  
-📲 *Available on the Google Play Store!*  
+> A **fun and addictive word puzzle game** built using **Jetpack Compose**. Integrated **AdMob monetization, Firebase Analytics, and in-app purchases**, providing an engaging user experience.
 
 ### 🏫 [Campus Recruitment System](https://github.com/mansoorulhaq166/Camous-Recruitment-System)  
 > A **feature-rich Android app** developed with **Kotlin & XML** to streamline **campus recruitment processes** for students and recruiters.  
